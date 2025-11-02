@@ -60,19 +60,6 @@ umap-learn
 hdbscan
 plotly
 
-🗂️ Repository Structure
-iranian_protest_narrative/
-│
-├── bertopic_english_duplicate.ipynb
-├── create_graph_largest_duplicate.ipynb
-├── create_labelling_sample_english.ipynb
-├── duplicate_detection_english.py
-├── duplicate_detection_persian.py
-├── eda_duplicates_fulldata.ipynb
-├── find_best_duplicate_threshold_english.ipynb
-├── google_trends_figure.ipynb
-├── robustness_check_duplicate_threshold_persian.ipynb
-└── README.md
 
 ✳️ Author: Melody Sepahpour-Fard
 📍 Project: Thesis chapter – Narrating Protest for Visibility: The Iranian Uprising on Twitter
