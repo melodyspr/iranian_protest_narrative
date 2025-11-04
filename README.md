@@ -48,20 +48,23 @@ The notebooks and scripts in this repository perform the following main steps:
 ## ⚙️ Dependencies
 
 These analyses require Python 3.8+ and the following libraries:
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-tqdm
-sentence-transformers
-bertopic
-umap-learn
-hdbscan
-plotly
+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- tqdm
+- sentence-transformers
+- bertopic
+- umap-learn
+- hdbscan
+- plotly
 
 
 ✳️ Author: Melody Sepahpour-Fard
+
 📍 Project: Thesis chapter – Narrating Protest for Visibility: The Iranian Uprising on Twitter
+
 📅 Year: 2025
 
